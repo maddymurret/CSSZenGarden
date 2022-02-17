@@ -276,9 +276,16 @@ textarea {
 .ash-header {
   display: flex;
   justify-content: space-between;
-  
+
 }
 
-.ash-header-logo {
+.ash-header-nav {
   max-width: 200px;
+}
+
+.joseph-image-demo {
+  max-width: 800px
+  margin-left: auto;
+  margin-right: auto; 
+  margin-top: 30px;
 }
