@@ -272,3 +272,13 @@ textarea {
   display: flex;
   gap: 20px;
 }
+
+.ash-header {
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.ash-header-logo {
+  max-width: 200px;
+}
