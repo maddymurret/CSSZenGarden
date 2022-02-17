@@ -261,3 +261,14 @@ textarea {
   }
 }
 
+.preamble p {
+  display: none;
+  display: inline;
+  display: inline-block;
+  display: block;
+}
+
+.nik-demo-row {
+  display: flex;
+  gap: 20px;
+}
