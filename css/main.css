@@ -299,3 +299,22 @@ textarea {
 .button:focus {
   outline: 3px solid darkcyan
 }
+
+.qj-demo-row {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+}
+
+.jade-section-description {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  padding-left: 60px;
+  padding-right: 60px  
+}
+
+element.style {
+  position: sticky;
+  top: 0;
+}
